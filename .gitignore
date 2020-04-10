@@ -2,5 +2,6 @@ venv
 *.pyc
 *.pyo
 __pycache__
-beer_reviews.csv
+*.csv
 .ipynb_checkpoints
+.vscode
