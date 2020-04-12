@@ -1,7 +1,7 @@
 Ranking on Ratings
 ---
 
-Given [Movie Lens dataset](https://grouplens.org/datasets/movielens/) we rank movies using following aggregation strategies
+Given [MovieLens dataset](https://grouplens.org/datasets/movielens/) we rank movies using following aggregation strategies
 
  - Arithmetic Average
  - Artihmetic Average with number of reviews
